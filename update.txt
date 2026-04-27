@@ -1,0 +1,9 @@
+Nouveautés:
+
+-Fonction de cast (tu peux maintenant jouer un film/episode sur un autre appareille comme une télé)
+
+-Fonction de mise a jour automatique (l'app se met automatiquement a jour apres une autorisation)
+
+-correction de certains bugs lors du compte a rebours de sortit d'un film/episode
+
+-suppression du bouton "passer l'intro" qui pouvait faire crash l'appareille a certaines occasions
