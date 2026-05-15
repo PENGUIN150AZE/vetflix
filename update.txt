@@ -6,3 +6,7 @@ icon de profil
 parametre ammeliore
 info sur episode
 et plein d'autres truc
+
+Rajout du cgu 
+Connexion au compte
+Recuperation de donne pour regler l'application
