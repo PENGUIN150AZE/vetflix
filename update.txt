@@ -1,7 +1,3 @@
-# VETFLIX — GUIDE DE MODIFICATIONS main.dart
-# IA/Développeur : lisez ce fichier EN PREMIER avant toute modification.
-# Il documente TOUT ce qui a été changé, pourquoi, et où exactement.
-#
 # CHANGELOG COMPLET DES MODIFICATIONS
 # =====================================
 # v2.0 — Modifications appliquées à main.dart (9368 lignes)
