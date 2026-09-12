@@ -1,1 +1,5 @@
--le catalogue ne disparait plus une fois un contenu telecharger sur une certaine version de android
+-rajout de PINPIN SHARE
+
+-rajout de l'icon telechargement dans la barre de navigation en bas
+
+-rajout de notification et message indiquant que : le bug/l'ammelioration/la suggestion que on a demander/proposer a ete ajouter/corriger
