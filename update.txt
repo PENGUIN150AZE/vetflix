@@ -1,7 +1,1 @@
--rajout de PINPIN SHARE
-
--rajout de l'icon telechargement dans la barre de navigation en bas
-
--rajout de notification et message indiquant que : le bug/l'ammelioration/la suggestion que on a demander/proposer a ete ajouter/corriger
-
--rajout de la barre de navigation android en bas avec un espacement des icon et l'espacement pour parler a pinpin(ia)
+Changement de l'ecran de chargement
